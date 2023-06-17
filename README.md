@@ -1,3 +1,3 @@
 # Example Reository
 
-This is example repo, Hello World!
+This is example repo, Hello Coders!
